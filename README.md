@@ -1,4 +1,4 @@
-# Download kaggle competition Data from:
+# Download kaggle competition (Coupon Purchase Prediction) data from:
 
 * https://www.kaggle.com/c/4481/download-all
 
