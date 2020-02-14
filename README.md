@@ -7,3 +7,6 @@
 * https://www.kaggle.com/tmdb/tmdb-movie-metadata/download
 
 
+# Sentiment Analyses
+
+* https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
